@@ -1,9 +1,9 @@
-def test(a, b):
+def test():
     a = 10
     b = 7
     print(a, b)
 
-test(10, 5)
+test()
 
 def test_2(a = 10, b = 7, c = 8):
     print(a, b, c)
